@@ -1,0 +1,17 @@
+Create new repository on GITHUB
+
+Create a new folder called "GitHubRepoAssignment": mkdir
+
+Initialize a git repo: git init
+
+Make readme.md: touch
+
+Check repo status: git status 
+
+add, commit and push changes to GitHub: git add, git commit -m "", 
+
+Check history of changes: git log
+
+Upload GitHubRepoAssignment.txt file
+
+Go to GitHub to see new repo and changes made
